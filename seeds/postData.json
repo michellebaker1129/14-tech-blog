@@ -1,0 +1,12 @@
+
+  [
+    { "title": "First Post", "text": "This is my first blog post!" },
+    {
+      "title": "Second Post",
+      "text": "Today I learned something new and wanted to share it."
+    },
+    {
+      "title": "Third Post",
+      "text": "I just finished reading a great book and wanted to write a review."
+    }
+  ]
